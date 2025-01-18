@@ -1,5 +1,6 @@
 HISTORIA DE FREDDY VEGA
 
-FREDDY TIENE 32 ANIOS
+FREDDY TIENE 33 ANIOS
 
-Este espara elprimer commit
+Se aumenta una linea mas
+Este espara el segundo commit modificado
